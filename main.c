@@ -1,7 +1,7 @@
 # file main.c
 void main (void)
   {
-  print("Hellow world!");
+  print("Bonjour world!");
   
   for( , , );
   }
